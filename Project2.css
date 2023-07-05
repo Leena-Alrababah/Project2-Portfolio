@@ -5,6 +5,7 @@
 
 .fullpage {
     width: 100%;
+
 }
 .navbar {
     background-color: hwb(264 7% 55%);
@@ -634,7 +635,8 @@
 
 .paragraph {
     font-size: small;
-    margin-left: 70px;   
+    margin-left: 70px;
+    font-weight: bold;   
 }
 
 /* #about .infoicons {
